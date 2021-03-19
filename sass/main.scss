@@ -1,0 +1,12 @@
+$base-color: #59524c;
+$highlight-color: #f5f7f1;
+$notification-color: #9ea476;
+
+* {
+        background: $base-color;
+        color: $highlight-color;
+        font: 1em arial;
+        padding: 10px;
+        margin: 0;
+        box-sizing: border-box;
+}
